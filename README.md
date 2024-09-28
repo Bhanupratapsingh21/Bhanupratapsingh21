@@ -1,25 +1,26 @@
 # 💫 About Me: Full Stack Developer & Tech Enthusiast :
 
 As a second-year Bachelor of Commerce student and Full Stack Development course participant at Masai School, I blend commercial acumen with cutting-edge technical skills. My journey in tech began at 17, inspired by films like Iron Man and The Social Network, leading me to master a comprehensive tech stack including MERN, Next.js, TypeScript, and DevOps.
-Technical Expertise
 
-Frontend: HTML, CSS, JavaScript, React, Next.js, TypeScript
-Backend: Node.js, Express, MongoDB, Mongoose
-DevOps & Cloud: AWS, Docker, Git, GitHub, Vercel
-UI Libraries: Tailwind CSS, Chakra UI, Accenternity UI, Shadcn
-BaaS & Storage: Appwrite, AWS S3
+## Technical Expertise
+- Frontend: HTML, CSS, JavaScript, React, Next.js, TypeScript
+- Backend: Node.js, Express, MongoDB, Mongoose
+- DevOps & Cloud: AWS, Docker, Git, GitHub, Vercel
+- UI Libraries: Tailwind CSS, Chakra UI, Accenternity UI, Shadcn
+- BaaS & Storage: Appwrite, AWS S3
 
-Professional Experience
+## Professional Experience
 Currently interning as an SDE Full Stack at Eventory, I'm enhancing their event management and booking platform. This role allows me to apply my technical skills in a real-world setting, contributing to seamless user experiences and robust backend solutions.
-Beyond Coding
 
-Multimedia skills: Premiere Pro, Canva, Figma
-Content Creation: Former part-time creator with 250k+ monthly views and 2k followers Withing a Month then quit Content Cause Of Some Personal Issue's
-Soft Skills: Teamwork, time management, public speaking, problem-solving
+## Beyond Coding
+- Multimedia skills: Premiere Pro, Canva, Figma
+- Content Creation: Former part-time creator with 250k+ monthly views
+- Soft Skills: Teamwork, time management, public speaking, problem-solving
 
-Aspirations
+## Aspirations
 Passionate about AI, machine learning, and DevOps, I'm eager to explore these cutting-edge fields further. I'm open to opportunities across industries where I can leverage my diverse skill set to create impactful solutions.
-Let's Connect
+
+## Let's Connect
 If you're looking for a versatile full stack developer with a strong technical foundation and commercial awareness, I'd love to discuss how I can contribute to your team's success. Let's turn innovative ideas into reality together!
 
 ## 🌐 Socials:
