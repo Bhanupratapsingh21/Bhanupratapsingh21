@@ -1,16 +1,26 @@
-# 💫 About Me:
-I’m currently in my second year pursuing a Bachelor of Commerce degree alongside a Full Stack Development course at Masai School. My technical expertise includes HTML, CSS, JavaScript, React, Node.js, Express, Mongoose, MongoDB, Next.js, TypeScript, AWS, Docker, Tailwind CSS, Git, GitHub, Chakra UI, Accenternity UI, Shadcn, Appwrite BaaS, AWS S3, and Vercel. Additionally, I have experience with multimedia tools like Premiere Pro, Canva, and Figma, along with skills in video editing, social media management, SEO, and content creation.
+# 💫 About Me: Full Stack Developer & Tech Enthusiast :
 
-At the age of 17, my passion for tech ignited after watching Iron Man and The Social Network. These films fueled my curiosity, leading me to dive into technology exploration. After securing an A-grade in my 12th class, I fully embraced my interest by learning HTML, CSS, and JavaScript, and eventually progressed to mastering advanced technologies like the MERN stack, Next.js, TypeScript, and DevOps through self-learning and structured learning at Masai School.
+As a second-year Bachelor of Commerce student and Full Stack Development course participant at Masai School, I blend commercial acumen with cutting-edge technical skills. My journey in tech began at 17, inspired by films like Iron Man and The Social Network, leading me to master a comprehensive tech stack including MERN, Next.js, TypeScript, and DevOps.
+Technical Expertise
 
-I’m currently interning at Eventory, where I work as an SDE Full Stack Intern to enhance their platform for seamless event management and booking solutions. Beyond technical skills, I bring strong soft skills in teamwork, time management, public speaking, and problem-solving, which are vital for navigating collaborative and dynamic environments.
+Frontend: HTML, CSS, JavaScript, React, Next.js, TypeScript
+Backend: Node.js, Express, MongoDB, Mongoose
+DevOps & Cloud: AWS, Docker, Git, GitHub, Vercel
+UI Libraries: Tailwind CSS, Chakra UI, Accenternity UI, Shadcn
+BaaS & Storage: Appwrite, AWS S3
 
-In my earlier journey, I was a part-time content creator, amassing over 250k monthly views and 2k followers before transitioning to fully focus on tech. My interests now extend to AI, machine learning, and DevOps, where I aim to explore cutting-edge innovations.
+Professional Experience
+Currently interning as an SDE Full Stack at Eventory, I'm enhancing their event management and booking platform. This role allows me to apply my technical skills in a real-world setting, contributing to seamless user experiences and robust backend solutions.
+Beyond Coding
 
-I’m open to opportunities across various industries and excited to bring my diverse skill set and commercial acumen to contribute to impactful projects. Whether solving complex problems or building innovative solutions, I’m driven by the thrill of turning ideas into reality.
+Multimedia skills: Premiere Pro, Canva, Figma
+Content Creation: Former part-time creator with 250k+ monthly views and 2k followers Withing a Month then quit Content Cause Of Some Personal Issue's
+Soft Skills: Teamwork, time management, public speaking, problem-solving
 
-Let’s connect if you're looking for a passionate and versatile full stack developer with a strong technical foundation and a keen interest in emerging technologies.
-
+Aspirations
+Passionate about AI, machine learning, and DevOps, I'm eager to explore these cutting-edge fields further. I'm open to opportunities across industries where I can leverage my diverse skill set to create impactful solutions.
+Let's Connect
+If you're looking for a versatile full stack developer with a strong technical foundation and commercial awareness, I'd love to discuss how I can contribute to your team's success. Let's turn innovative ideas into reality together!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhanu_pratap_2119) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhanu-pratap-singh-bbb976257) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bhanu_pratap_21) 
