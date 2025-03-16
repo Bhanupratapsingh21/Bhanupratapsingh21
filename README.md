@@ -16,7 +16,7 @@ As a second-year Bachelor of Commerce student and Full Stack Development learner
 - **Frontend**: React.js, Next.js, TypeScript, HTML, CSS, JavaScript ,ZOD
 - **Backend**: Node.js, Express, MongoDB, PostgressSQL, Prisma ORM , NGINX , Mongoose
 - **UI Libraries**: Tailwind CSS, ShadCN, Redux , Chakra UI , Accenternity UI , Magic UI
-- **DevOps & Cloud**: AWS, Git, GitHub, Vercel , Docker , GitHub Actions
+- **DevOps & Cloud**: AWS, Git, GitHub, Vercel , Docker , GitHub Actions , Prometheus , Grafana
 - **BaaS & Storage**: AWS S3 , Appwrite
 
 ## 🎨 Beyond Coding
