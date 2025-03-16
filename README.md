@@ -1,27 +1,35 @@
-# 💫 About Me: Full Stack Developer & Tech Enthusiast :
+# 💫 About Me: Full Stack Developer & Tech Enthusiast
+As a second-year Bachelor of Commerce student and Full Stack Development learner at Masai School, I blend commercial acumen with cutting-edge technical skills. Currently working at Newral, one of India's top tech agencies, I collaborate with US-based clients and leading Indian edtech startups. My journey in tech began with a passion for building innovative solutions and has evolved into a comprehensive skillset spanning frontend, backend, and cloud technologies.
 
-As a second-year Bachelor of Commerce student and Full Stack Development course participant at Masai School, I blend commercial acumen with cutting-edge technical skills. My journey in tech began at 17, inspired by films like Iron Man and The Social Network, leading me to master a comprehensive tech stack including MERN, Next.js, TypeScript, and DevOps.
+## 🚀 Professional Experience
+- **Newral** - Full Stack Developer
+  - Working with US-based clients like Assume Chat & Fizz Social
+  - Developing for top Indian edtech startups including Competishun NEET Kaka JEE & Abroad Kaka
+  - Building solutions for OTT Bharat App, Paratalks, and Rezume.dev
 
-## Technical Expertise
-- Frontend: HTML, CSS, JavaScript, React, Next.js, TypeScript
-- Backend: Node.js, Express, MongoDB, Mongoose
-- DevOps & Cloud: AWS, Docker, Git, GitHub, Vercel
-- UI Libraries: Tailwind CSS, Chakra UI, Accenternity UI, Shadcn
-- BaaS & Storage: Appwrite, AWS S3
+- **Eventory** - Intern (3 months)
+  - Enhanced vendor and customer platforms
+  - Implemented payments integration
+  - Developed event booking features
 
-## Professional Experience
-Currently interning as an SDE Full Stack at Eventory, I'm enhancing their event management and booking platform. This role allows me to apply my technical skills in a real-world setting, contributing to seamless user experiences and robust backend solutions.
+## 💻 Technical Expertise
+- **Frontend**: React.js, Next.js, TypeScript, HTML, CSS, JavaScript ,ZOD
+- **Backend**: Node.js, Express, MongoDB, PostgressSQL, Prisma ORM , NGINX , Mongoose
+- **UI Libraries**: Tailwind CSS, ShadCN, Redux , Chakra UI , Accenternity UI , Magic UI
+- **DevOps & Cloud**: AWS, Git, GitHub, Vercel , Docker , GitHub Actions
+- **BaaS & Storage**: AWS S3 , Appwrite
 
-## Beyond Coding
-- Multimedia skills: Premiere Pro, Canva, Figma
-- Content Creation: Former part-time creator with 250k+ monthly views
-- Soft Skills: Teamwork, time management, public speaking, problem-solving
+## 🎨 Beyond Coding
+- **Multimedia skills**: Premiere Pro, Canva, Figma
+- **Content Creation**: Former creator with 250K+ monthly views
+- **Soft Skills**: Teamwork, problem-solving, public speaking
 
-## Aspirations
-Passionate about AI, machine learning, and DevOps, I'm eager to explore these cutting-edge fields further. I'm open to opportunities across industries where I can leverage my diverse skill set to create impactful solutions.
+## 🔭 Aspirations
+Passionate about fintech, edtech, AI, machine learning, and DevOps. Currently exploring React Native for mobile development and building freelance service packages for my agency.
 
-## Let's Connect
-If you're looking for a versatile full stack developer with a strong technical foundation and commercial awareness, I'd love to discuss how I can contribute to your team's success. Let's turn innovative ideas into reality together!
+## 🤝 Let's Connect
+If you're looking for a versatile full stack developer with experience in both US and Indian markets, I'd love to discuss how I can contribute to your team's success. Let's turn innovative ideas into reality together!
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhanu_pratap_2119) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhanu-pratap-singh-bbb976257) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bhanu_pratap_21) 
